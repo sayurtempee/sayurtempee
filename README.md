@@ -2,7 +2,7 @@
 <h3 align="center">💻 Junior Web Developer | XI RPL 2</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayurtempee/project-apotek/main/public/storage/img/RPL.png" alt="Logo RPL" width="150" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/sayurtempee/sayurtempee/main/RPL.png" alt="Logo RPL" width="150" style="border-radius:50%;" />
 </p>
 
 ---
