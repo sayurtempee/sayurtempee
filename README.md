@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Faris Hilmi</h1>
-<h3 align="center">💻 Junior Web Developer | XI RPL 2</h3>
+<h3 align="center">💻 Junior Web Developer | XII RPL 2</h3>
+<h3 align="center">💻 I am a student of Vocational High School 71 Jakarta</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sayurtempee/sayurtempee/main/RPL.png" alt="Logo RPL" width="150" style="border-radius:50%;" />
