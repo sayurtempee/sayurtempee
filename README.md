@@ -3,9 +3,8 @@
 <h3 align="center">💻 I am a student of Vocational High School 71 Jakarta</h3>
 
 <p align="center">
-    <a href="https://smkn71jakarta.sch.id/rekayasa-perangkat-lunak/"
+    <a href="https://smkn71jakarta.sch.id/rekayasa-perangkat-lunak/"</a>
       <img src="https://raw.githubusercontent.com/sayurtempee/sayurtempee/main/RPL.png" alt="Logo RPL" width="150" style="border-radius:50%;" />
-    </a>
 </p>
 
 ---
