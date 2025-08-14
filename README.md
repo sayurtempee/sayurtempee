@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 Tentang Saya
-- 🎓 Siswa **XI RPL 2** di **Rekayasa Perangkat Lunak**
+- 🎓 Siswa **XII RPL 2** di **Rekayasa Perangkat Lunak**
 - 💊 Sedang mengerjakan **[Project Apotek](https://github.com/sayurtempee/project-apotek)**
 - 💳 Project pertama: **[E-Kasir](https://github.com/sayurtempee/project-e-kasir)**
 - 🎯 Minat: Laravel, Tailwind CSS, API Integration, Web Development
