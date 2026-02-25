@@ -31,7 +31,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,tailwind,flutter,ubuntu,mysql,git,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,bootstrap,tailwind,flutter,ubuntu,mysql,git,vscode&perline=10" />
 </p>
 
 ---
