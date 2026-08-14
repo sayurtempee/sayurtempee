@@ -8,8 +8,8 @@
   <a href="https://alizacreative.net" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-alizacreative.net-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="https://instagram.com/miiimoyys" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-@miiimoyys-e1306c?style=for-the-badge&logo=instagram" />
+  <a href="https://instagram.com/miimoyys" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@miimoyys-e1306c?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
